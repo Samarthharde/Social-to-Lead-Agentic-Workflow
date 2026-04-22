@@ -1,0 +1,32 @@
+You: hi
+Bot: Hello! Welcome to AutoStream.
+
+You: pricing
+
+Basic Plan
+$29/month
+10 videos/month
+720p
+
+Pro Plan
+$79/month
+Unlimited videos
+4K
+AI captions
+
+You: I want Pro plan
+Bot: Great! Please enter your name:
+
+You: Samarth
+Bot: Enter your email:
+
+You: samarth@gmail.com
+Bot: Enter your platform:
+
+You: YouTube
+
+Lead Captured Successfully
+Name: Samarth
+Email: samarth@gmail.com
+Platform: YouTube
+Selected Plan: Pro Plan
